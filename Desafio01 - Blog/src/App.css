@@ -1,5 +1,13 @@
 body {
-  background-color: rgb(243, 245, 247);
+  background-color: rgba(243, 245, 247, 255);
+}
+
+* {
   font-family: 'Lexend Deca';
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
+  font-size: 0px;
+  border: solid black 0px;
+  text-decoration: none;
+  box-sizing: border-box;
 }
