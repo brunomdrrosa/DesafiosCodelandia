@@ -1,5 +1,4 @@
 import './styles.scss';
-import { GrSearch } from 'react-icons/gr';
 
 function Header() {
   return (
