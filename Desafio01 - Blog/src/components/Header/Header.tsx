@@ -1,11 +1,21 @@
 import './styles.scss';
+import { GrSearch } from 'react-icons/gr';
 
 function Header() {
   return (
-    <div className="header-background">
-      <h1 className="header-text">Codelândia</h1>
-      <h2 className="header-text">blog</h2>
-    </div>
+    <header className="header-background">
+      <div className="header-texts">
+        <h1 className="title">Codelândia</h1>
+        <h2 className="subtitle">blog</h2>
+      </div>
+      <div className="input-div">
+        <input
+          className="search-bar"
+          type="text"
+          placeholder="Pesquisar no blog"
+        ></input>
+      </div>
+    </header>
   );
 }
 
