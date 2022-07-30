@@ -13,10 +13,14 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noImplicitAny": false,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "./src/",
+    "types": [
+      "vite/client", // if using vite
+      // ...
+    ]
   },
-  "include": ["src", "news.js"],
+  "include": ["src", "news.ss"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
