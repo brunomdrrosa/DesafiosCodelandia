@@ -16,13 +16,12 @@ Este repositório foi criado para adicionar os desafios que eu realizei da comun
 
 ---
 
-## 🚧 Projetos
+## 🚧 Projeto
 
 
 | Projeto | Descrição | Tecnologias | Design e Deploy | Status |
 |:---:|:---:|:---:|:---:|---|
-| <img src="https://i.imgur.com/00ekMNL.png" alt="Blog"> | Blog de notícias | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> <a href="http://desafio-codelandia-blog.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt="Blog"> <br> Em andamento</p> |
-| <img src="https://i.imgur.com/2Ieguq6.png" alt="Em andamento"> | Página inicial de uma loja de tênis Jordan  | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> | <p align="center"><img src="https://i.imgur.com/6RoF1fW.png" alt="Não iniciado"> <br> Não iniciado</p> |
+| <img src="https://i.imgur.com/00ekMNL.png" alt="Blog"> | Blog de notícias | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> <a href="http://desafio-codelandia-blog.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> | <p align="center"><img src="https://i.imgur.com/QQksIZo.png" alt="Blog"> <br> Em andamento</p> |
 
 
 ---
