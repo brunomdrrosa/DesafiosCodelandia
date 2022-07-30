@@ -16,7 +16,7 @@ Este repositório foi criado para adicionar os desafios que eu realizei da comun
 
 ---
 
-## 🚧 Projeto
+## 🚧 Projetos
 
 
 | Projeto | Descrição | Tecnologias | Design e Deploy | Status |
