@@ -1,8 +1,8 @@
 import Header from '../components/Header/Header';
-import News from '../components/News/News';
+import News, { NewsProps } from '../components/News/News';
 import news from '../../news.js';
 
-function boxNews(news: any) {
+function boxNews(news: NewsProps) {
   return (
     <News
       key={news.id}
