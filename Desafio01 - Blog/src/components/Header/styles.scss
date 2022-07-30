@@ -22,15 +22,22 @@
 }
 
 .input-div {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 0px 20px;
 }
 
+.icon {
+  position: absolute;
+  height: 100%;
+  left: 520px;
+  top: 15px;
+}
+
 .search-bar {
   background: rgba(255, 255, 255, 0.2);
-  padding-left: 25px;
   border-radius: 5px;
   border-style: hidden;
   margin-top: 30px;
@@ -46,6 +53,10 @@ input[type=text], ::placeholder {
   font-size: 18px;
 }
 
+input[type=text] {
+  padding-left: 65px;
+}
+
 ::placeholder {
   opacity: 0.5;
 }
@@ -53,7 +64,6 @@ input[type=text], ::placeholder {
 :focus {
   outline: none;
 }
-
 
 @media only screen and (max-width: 950px) {
   .header-texts {

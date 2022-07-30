@@ -1,4 +1,5 @@
 import './styles.scss';
+import { FaSearch } from 'react-icons/fa';
 
 function Header() {
   return (
@@ -8,6 +9,7 @@ function Header() {
         <h2 className="subtitle">blog</h2>
       </div>
       <div className="input-div">
+        {/* <FaSearch className="icon" color="#ffffff" size={25} /> */}
         <input
           className="search-bar"
           type="text"
